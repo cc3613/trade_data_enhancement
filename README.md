@@ -1,3 +1,7 @@
+Takes in the raw data and come out with the enriched version (adding several more columns to the original)
+
+I will not provide the input data, though.
+
 instructions:
     to run the program:
         python calcStats.py --inputFile=trades.csv --outputFile=enrichedTrades.csv
